@@ -1,6 +1,6 @@
 tree
 
-head samplpe.txt
+head sample.txt
 
 head -1 sample.txt
 
