@@ -1,0 +1,18 @@
+ls
+
+echo "hi this is kavya
+currently pursuing in 3rd year
+at saveetha university
+chennai" sample.txt
+
+less sample.txt
+:wq
+
+more sample.txt
+
+vi demo.txt
+Hello
+Welcome to Kali Linux
+This is a vi editor demo
+
+cat demo.txt
