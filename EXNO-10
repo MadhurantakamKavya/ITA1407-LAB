@@ -1,0 +1,6 @@
+free -h
+
+nano fruits.txt
+sort fruits.txt
+
+history
