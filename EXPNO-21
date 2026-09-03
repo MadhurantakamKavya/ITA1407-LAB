@@ -1,1 +1,4 @@
-start example.bat
+@echo off
+echo Hello from Batch File
+ipconfig
+pause
