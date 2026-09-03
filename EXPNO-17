@@ -1,0 +1,4 @@
+traceroute google.com
+ping 8.8.8.8
+ifconfig
+netstat -tuln
